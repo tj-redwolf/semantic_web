@@ -1,0 +1,524 @@
+Angry
+Sad
+Hungry
+Cold
+Hot
+Warm
+Chilly
+Thirsty
+Sick
+Tired
+Weak
+Disgruntled
+Terrible
+Dreadful
+Dirty
+Ugly
+Defeated
+Embarrassed
+Stupid
+Dumb
+Foolish
+Silly
+Hurt
+Nervous
+Scared
+Evil
+Bashful
+Pessimistic
+Sadistic
+Hating
+Taken aback
+Sad
+Angry
+Mad
+Grumpy
+Tearful
+Devastated
+Horrified
+Disgruntled
+Hurt
+Annoyed
+Aggravated
+Hating
+Despise
+Sour
+Depressed
+Sick
+Fear
+Guilt
+Jealousy
+Self-pity
+Anxiety
+Frustration
+Envy
+Longing
+Shame
+Selfish
+Overwhelme
+Sarcastic
+Narcissistic
+Sardonic
+Mysterious
+Obnoxious
+Foolish
+Disgruntled
+Hurtful
+Hating
+Irritated
+Outraged
+Alarmed
+Startled
+Horrified
+Annoyed
+Secretive
+Quizzical
+Guilty
+Disbelieving
+Not supportive
+Cautious
+Calculated
+Purposeful
+Sad
+Bitter
+Angry
+Resentful
+Remorseful
+Dull
+Dreary
+Abandoned  
+Abused  
+Accused  
+Adrift  
+Afraid  
+Aggravated  
+Aggressive  
+Agitated  
+Agony  
+Alarmed  
+ Alienated  
+ Alone  
+ Aloof  
+ Ambivalent  
+ Anguished  
+ Animosity  
+ Annoyed  
+ Antagonistic  
+ Anxious  
+ Apathetic  
+ Apprehensive  
+ Argumentative  
+ Arrogant  
+ Ashamed  
+ At Fault  
+ Attacked  
+ Avoiding  
+ Awful  
+ Awkward  
+ Bad  
+ Banished  
+ Barren  
+ Bashful  
+ Beaten Down  
+ Befuddled  
+ Belittled  
+ Belligerent  
+ Bereft  
+ Betrayed  
+ Bewildered  
+ Bitter  
+ Blaming  
+ Bleak  
+ Blocked  
+ Blue  
+ Boastful  
+  Bored  
+ Brokenhearted  
+ Bugged  
+ Burdened  
+ Burned Up  
+ Captive  
+ Careless  
+ Cast Off  
+ Censured  
+ Chagrined  
+ Chaotic  
+ Chastened  
+ Cheap  
+ Cheapened  
+ Cheated  
+ Childish  
+ Clingy  
+ Clumsy  
+ Competitive  
+ Compromised  
+ Compulsive  
+ Conceited  
+ Condemned  
+ Confined  
+ Conflicted  
+ Confounded  
+ Confused  
+ Contemptible  
+ Contentious  
+ Contradictory  
+ Contrary  
+ Controlled  
+ Covetous  
+ Cowardly  
+ Cranky  
+ Crazy  
+ Crippled  
+ Critical  
+ Criticized  
+ Cruel  
+ Crushed  
+ Cursed  
+ Cut Off  
+ Cynical  
+ Debased   
+ Deceitful  
+ Deceived  
+ Defamed  
+ Defeated  
+ Defensive  
+ Defiant  
+ Deficient  
+ Defiled  
+ Deflated  
+ Degenerate  
+ Degraded  
+ Dejected  
+ Demanding  
+ Demeaned  
+ Demoralized  
+ Dependent  
+ Depraved  
+ Depreciated  
+ Depressed  
+ Deprived  
+ Derided  
+ Desecrated  
+ Deserted  
+ Desolate  
+ Despair  
+ Desperate  
+ Destitute  
+ Destroyed    
+ Devalued  
+ Devastated  
+ Difficult  
+ Disappointed  
+  Discarded  
+ Disconcerted  
+ Discouraged  
+ Discredited  
+ Disgraced  
+ Disgusted  
+ Dismal  
+ Dismayed  
+ Disorganized  
+ Disparaged  
+ Dissatisfied  
+ Distant  
+ Distorted  
+ Distressed  
+ Distrustful  
+ Disturbed  
+ Dominated  
+ Doomed  
+ Doubtful  
+ Down  
+ Downcast  
+ Drained  
+ Dread  
+ Dreary  
+ Embarrassed  
+ Embroiled  
+ Empty  
+ Enraged  
+ Envious  
+ Estranged  
+ Exasperated  
+ Excluded  
+ Exhausted  
+ Exploited  
+ Exposed  
+ Failure  
+ Faithless  
+ Fatigued  
+ Fearful  
+ Feeble  
+ Filthy  
+ Finished  
+ Flighty  
+ Flustered  
+ Foggy  
+ Forgetful  
+ Forgotten  
+ Forlorn  
+ Forsaken  
+ Fragmented  
+ Frantic  
+ Fretful  
+ Friendless  
+ Frightened  
+ Frigid  
+ Frustrated  
+ Fuming  
+ Furious  
+ Gloomy  
+ Grieved  
+ Grim  
+ Grouchy  
+ Guilty  
+ Gullible  
+ Harassed  
+ Hardened  
+ Harsh  
+ Hasty  
+ Hatred  
+ Haughty  
+ Haunted  
+ Heartless  
+ Helpless  
+ Hesitant  
+ Hindered  
+ Hopeless  
+ Horrible  
+ Horrified  
+ Hostile  
+ Humiliated  
+ Hurried  
+ Hurt  
+ Hypocritical  
+ Hysterical  
+ Ignorant  
+ Immature    
+ Immobilized  
+ Impaired  
+ Impatient  
+ Impotent  
+ Impoverished  
+ Imprisoned  
+ Impulsive  
+ In a Bind  
+ Inadequate  
+ Incapable  
+ Incensed  
+ Incompetent  
+ Inconsiderate  
+ Inconsistent  
+ Indecisive  
+ Indignant  
+ Ineffective  
+ Inefficient  
+ Inept  
+ Inferior  
+ Inflexible  
+ Infuriated  
+ Inhibited  
+ Insecure  
+ Insignificant  
+ Insincere  
+ Insulted  
+ Intimidated  
+ Irresponsible  
+ Irritable  
+ Isolated  
+ Jealous  
+ Jittery  
+ Joyless  
+ Judgmental  
+ Jumpy  
+ Lacking  
+ Left Out  
+ Let Down  
+ Limited  
+ Listless  
+ Livid  
+ Lonely  
+ Lonesome  
+ Longing  
+ Lost  
+ Lousy  
+ Low  
+ Mad  
+ Malicious  
+ Maligned  
+ Manipulated  
+ Manipulative  
+ Materialistic  
+ Mean  
+ Melancholy  
+ Minimized  
+ Miserable  
+ Miserly  
+ Mistreated  
+ Misunderstood  
+ Misused  
+ Mixed Up  
+ Mocked  
+ Moody  
+ Mortified  
+ Mournful  
+ Muddled  
+ Naive  
+ Narrow    
+ Nauseated  
+ Negative  
+ Neglected  
+ Nervous  
+ Obnoxious  
+ Obsessed  
+ Obstinate  
+ Obstructed   
+ Offended  
+ On Edge  
+ Opiniated  
+ Opposed  
+ Oppositional  
+ Oppressed  
+ Outcase  
+ Outraged  
+ Overlooked  
+ Overwhelmed  
+ Overworked  
+ Pained  
+ Panicky  
+ Paralyzed  
+ Paranoid  
+ Peculiar  
+ Perfectionistic  
+ Perplexed  
+ Persecuted  
+ Perturbed  
+ Pessimistic  
+ Phobic  
+ Phony  
+ Pitiful  
+ Powerless  
+ Prejudiced  
+ Pressured  
+ Punished  
+ Puny  
+ Pushed  
+ Put Down  
+ Puzzled    
+ Rattled  
+ Rebellious  
+ Regretful  
+ Rejected  
+ Remorseful  
+ Remote  
+ Reproved  
+ Repulsive  
+ Resentful  
+ Resistant  
+ Responsible  
+ Restless  
+ Restrained  
+ Restricted  
+ Ridiculed  
+ Risky  
+ Rotten  
+ Ruined  
+ Rushed  
+ Ruthless  
+ Sad  
+ Sarcastic  
+ Scared  
+ Scattered  
+ Scoffed At  
+ Scorned  
+ Seething  
+ Shaky  
+ Shallow  
+ Shameful  
+ Shocked  
+ Shot Down  
+ Shunned  
+ Shy  
+ Sick  
+ Sinful  
+ Slammed  
+ Slandered  
+ Slighted  
+ Slow   
+ Small  
+ Smothered  
+ Smug  
+ Sorrowful  
+ Spiteful  
+ Stagnant  
+ Stifled  
+ Stingy  
+ Stressed  
+ Stubborn  
+ Stumped  
+ Stupid  
+ Suffering  
+ Suicidal  
+ Superficial  
+ Superior  
+ Suspicious  
+ Tactless  
+ Tearful  
+ Temperamental  
+ Tense  
+ Terrible  
+ Terrified  
+ Thoughtless  
+ Threatened  
+ Thwarted  
+ Timid  
+ Tired  
+ Tortured  
+ Trapped 
+ Troubled  
+ Turned Off  
+ Unable  
+ Unappreciated  
+ Uncertain  
+ Uncomfortable  
+ Undecided  
+ Undesirable  
+ Undisciplined  
+ Uneasy    
+ Unforgivable  
+ Unforgiving  
+ Unfriendly  
+ Unhappy  
+ Unimportant  
+ Unmindful  
+ Unorganized  
+ Unpleasant  
+ Unprotected  
+ Unreasonable  
+ Unsettled  
+ Unsure  
+ Unthankful  
+ Unwanted  
+ Unwise  
+ Unworthy  
+ Upset  
+ Uptight  
+ Used  
+ Useless  
+ Vengeful  
+ Vexed  
+ Vicious  
+ Vindictive  
+ Violated  
+ Violent  
+ Vulnerable  
+ Washed Up  
+ Wasted  
+ Weak  
+ Weepy  
+ Withdrawn  
+ Worried  
+ Worthless  
+ Wounded  
+ Wrong  
+ Yearning
