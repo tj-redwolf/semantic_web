@@ -4,10 +4,10 @@ In the domain of sports, fans are strongly connected to Social Media like Facebo
 Even though the underlying structure of the Facebook and Twitter is different, they share the same idea of containing the opinions of their users on the teams, players or events going on in the world of sports.
 We attempted to cluster the data from the two social network websites and perform a combined analysis on the clustered datasets to estimate the sentiments of the topic solely based on the user interest. We further used a formula to calculate the popularity of the posts which will list the popular trends from among the groups the user is following.
 ## Problem Description:
-Given : Two social network datasets (F- Facebook and T- Twitter)
+Given : Two social network datasets (F- Facebook and T- Twitter)</br>
 Find : Similar links between the two datasets by mapping them together and
-perform clustering and then applying sematic logic to calculate popularity of the trending events.
-Domain : Sports (Cricket)
+perform clustering and then applying sematic logic to calculate popularity of the trending events.</br>
+Domain : Sports (Cricket)</br>
 
 </br>
 Please read project report for full description of the problem and the applied approach on Popularity and Sentiment Analysis  
